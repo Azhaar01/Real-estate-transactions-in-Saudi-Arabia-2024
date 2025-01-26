@@ -1,4 +1,4 @@
-# Real Estate Deals In Saudi Arabia 2024
+# Real Estate Transactions In Saudi Arabia 2024
 
 This project demonstrates a **comprehensive approach to data cleaning, transformation, visualization, and analysis**, highlighting key findings and insights extracted from real estate transaction data for Saudi Arabia in 2024.
 
