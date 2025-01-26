@@ -63,7 +63,7 @@ Using Power Query, I prepared the dataset as follows:
    - **Eastern Region**: Ranked third with **26 billion SAR**.  
 
 ### E. Total Transactions in 2024:
-- The total number of real estate transactions in Saudi Arabia for 2024 reached **182,000 transactions**.  
+- The total number of real estate transactions in Saudi Arabia for 2024 reached **181,953 transactions**.  
 
 ---
 
@@ -81,7 +81,7 @@ Using Power Query, I prepared the dataset as follows:
 ## 📷 Screenshots
 1. **Dashboard Overview**  
 
-   ![Dashboard Overview](img/Dashboard-of-real-estate-deals-in-SA-2024.png)  
+   ![Dashboard Overview](img/Dashboard-Overview.png)  
 
 2. **Interactive Map with Conditional Formatting**  
 
