@@ -81,7 +81,7 @@ Using Power Query, I prepared the dataset as follows:
 ## 📷 Screenshots
 1. **Dashboard Overview**  
 
-   ![Dashboard Overview](img/Dashboard-Overview.png)  
+   ![Dashboard Overview](img/Dashboard-overview.png)  
 
 2. **Interactive Map with Conditional Formatting**  
 
