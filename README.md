@@ -90,6 +90,4 @@ Using Power Query, I prepared the dataset as follows:
 ---
 
 ## 🚀 How to Use This Dashboard
-Power BI file (`Real-estate-transactions-in-Saudi-Arabia-2024
-/RealEstateDashboard.pbix
-`).
+Power BI file (RealEstateDashboard.pbix).
